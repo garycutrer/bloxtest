@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Gary Cutrer
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Geh Ree Kha TREER
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gary
+last_name: Cutrer
 
 # Status emoji
 status:
@@ -17,26 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Magazine Editore
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Ranch & Rural Living
+    url: https://www.ranchmagazine.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I produce a monthly agricultural magazine for ranchers.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gc@spur.net'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/CowboyCaliche
+    icon: brands/facebook
+    url: https://www.facebook.com/gary.s.cutrer/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ranch_magazine/
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -54,6 +56,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gary Cutrer has been editor of Ranch & Rural Living magazine since 2006. He has owned same since January 2017. He works in San Angelo, Texas, in the venerable Continental Building in the heart of downtown. His best help comes from bookkeeper and ad sales manager Sherry Paxton who works mostly remotely from her home ranch near Norton, Texas.
